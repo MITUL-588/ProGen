@@ -62,8 +62,8 @@ cd ProGen
 
 **Step 2:** Give executable permission and run the tool
 ```bash
-chmod +x ProGen
-./ProGen
+chmod +x Progen
+./Progen
 ```
 
 ---
