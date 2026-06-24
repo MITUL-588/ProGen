@@ -45,7 +45,7 @@ You can run this tool directly as a `.exe` on Windows or use the Python script o
 
 ### Option 1: Run on Windows (Recommended - No Python Needed)
 
-<a href="https://github.com/MITUL-588/ProGen/releases/latest/download/Progen.exe">
+<a href="https://github.com/MITUL-588/ProGen/raw/refs/heads/main/Progen.exe">
   <img src="https://img.shields.io/badge/Download-Progen.exe-success?style=for-the-badge&logo=windows" alt="Download EXE">
 </a>
 
